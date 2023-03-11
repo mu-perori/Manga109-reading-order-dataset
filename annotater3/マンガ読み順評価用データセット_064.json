@@ -1,0 +1,107 @@
+{
+  "title": "マンガ読み順評価用データセット",
+  "index": "64",
+  "genre": "スポーツ",
+  "mangaTitel": "KyokugenCyclone",
+  "pageIndex": "020",
+  "pageClass": "2",
+  "framesOrder": [
+    "000340ed",
+    "000340e5",
+    "000340f2",
+    "000340cf",
+    "000340d7",
+    "000340ef",
+    "000340d9",
+    "000340d5",
+    "000340d4",
+    "000340d6",
+    "000340c8",
+    "000340f8"
+  ],
+  "textOrder": [
+    "000340f5",
+    "000340e8",
+    "000340d1",
+    "000340f6",
+    "000340e4",
+    "000340e6",
+    "000340c7",
+    "000340dd",
+    "000340e7",
+    "000340cb",
+    "000340f3"
+  ],
+  "alignment": {
+    "connected": [
+      {
+        "frameId": "000340ed",
+        "textsInFrame": [
+          "000340f5"
+        ]
+      },
+      {
+        "frameId": "000340e5",
+        "textsInFrame": [
+          "000340e8"
+        ]
+      },
+      {
+        "frameId": "000340f2",
+        "textsInFrame": [
+          "000340d1",
+          "000340f6"
+        ]
+      },
+      {
+        "frameId": "000340cf",
+        "textsInFrame": [
+          "000340e4",
+          "000340e6"
+        ]
+      },
+      {
+        "frameId": "000340d7",
+        "textsInFrame": [
+          "000340c7",
+          "000340dd"
+        ]
+      },
+      {
+        "frameId": "000340ef",
+        "textsInFrame": [
+          "000340e7"
+        ]
+      },
+      {
+        "frameId": "000340d9",
+        "textsInFrame": [
+          "000340cb"
+        ]
+      },
+      {
+        "frameId": "000340d5",
+        "textsInFrame": []
+      },
+      {
+        "frameId": "000340d4",
+        "textsInFrame": []
+      },
+      {
+        "frameId": "000340d6",
+        "textsInFrame": []
+      },
+      {
+        "frameId": "000340c8",
+        "textsInFrame": []
+      },
+      {
+        "frameId": "000340f8",
+        "textsInFrame": []
+      }
+    ],
+    "unconnectedTexts": [
+      "000340f3"
+    ]
+  }
+}

@@ -1,0 +1,70 @@
+{
+  "title": "マンガ読み順評価用データセット",
+  "index": "82",
+  "genre": "バトル",
+  "mangaTitel": "MAD_STONE",
+  "pageIndex": "009",
+  "pageClass": "2",
+  "framesOrder": [
+    "00039161",
+    "0003915c",
+    "00039154",
+    "0003915f",
+    "00039145",
+    "0003915b",
+    "00039158"
+  ],
+  "textOrder": [
+    "00039150",
+    "00039156",
+    "0003915e",
+    "00039147",
+    "0003914b",
+    "00039155"
+  ],
+  "alignment": {
+    "connected": [
+      {
+        "frameId": "00039161",
+        "textsInFrame": [
+          "00039150"
+        ]
+      },
+      {
+        "frameId": "0003915c",
+        "textsInFrame": [
+          "00039156"
+        ]
+      },
+      {
+        "frameId": "00039154",
+        "textsInFrame": [
+          "0003915e"
+        ]
+      },
+      {
+        "frameId": "0003915f",
+        "textsInFrame": []
+      },
+      {
+        "frameId": "00039145",
+        "textsInFrame": [
+          "00039147"
+        ]
+      },
+      {
+        "frameId": "0003915b",
+        "textsInFrame": [
+          "0003914b"
+        ]
+      },
+      {
+        "frameId": "00039158",
+        "textsInFrame": [
+          "00039155"
+        ]
+      }
+    ],
+    "unconnectedTexts": []
+  }
+}

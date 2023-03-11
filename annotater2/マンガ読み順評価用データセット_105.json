@@ -1,0 +1,83 @@
+{
+  "title": "マンガ読み順評価用データセット",
+  "index": "105",
+  "genre": "ホラー",
+  "mangaTitel": "MayaNoAkaiKutsu",
+  "pageIndex": "068",
+  "pageClass": "1",
+  "framesOrder": [
+    "0003dc83",
+    "0003dc8a",
+    "0003dc7d",
+    "0003dc7f",
+    "0003dc89",
+    "0003dc88",
+    "0003dc79",
+    "0003dc86"
+  ],
+  "textOrder": [
+    "0003dc7e",
+    "0003dc85",
+    "0003dc7c",
+    "0003dc84",
+    "0003dc82",
+    "0003dc8b",
+    "0003dc7b",
+    "0003dc81",
+    "0003dc87",
+    "0003dc8c"
+  ],
+  "alignment": {
+    "connected": [
+      {
+        "frameId": "0003dc83",
+        "textsInFrame": [
+          "0003dc7e",
+          "0003dc85"
+        ]
+      },
+      {
+        "frameId": "0003dc8a",
+        "textsInFrame": [
+          "0003dc7c",
+          "0003dc84"
+        ]
+      },
+      {
+        "frameId": "0003dc7d",
+        "textsInFrame": [
+          "0003dc82"
+        ]
+      },
+      {
+        "frameId": "0003dc7f",
+        "textsInFrame": [
+          "0003dc8b"
+        ]
+      },
+      {
+        "frameId": "0003dc89",
+        "textsInFrame": [
+          "0003dc7b",
+          "0003dc81"
+        ]
+      },
+      {
+        "frameId": "0003dc88",
+        "textsInFrame": []
+      },
+      {
+        "frameId": "0003dc79",
+        "textsInFrame": [
+          "0003dc87",
+          "0003dc8c"
+        ]
+      },
+      {
+        "frameId": "0003dc86",
+        "textsInFrame": []
+      }
+    ],
+    "unconnectedTexts": []
+  }
+}
